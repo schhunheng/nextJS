@@ -1,0 +1,32 @@
+
+
+.container{
+    display: block;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+
+}
+.container h1{
+   text-align: center;
+}
+.input{
+    
+    width: 430px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.btn{
+    width: 210px;
+    margin-right: 5px;
+    background-color: teal;
+    color: wheat;
+}
+.line{
+    width: 200px;
+    padding: 2px;
+    margin: 10px auto ;
+    text-align: center;
+    color:tomato;
+}
